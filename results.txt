@@ -1,45 +1,68 @@
 
 Image name		Size	PSNR		MSE
-baboon.tiff		2040	60.0255		0.0646
-clock.tiff		2040	54.0108		0.2582
-girl.tiff		2040	54.116		0.252
-home.tiff		2040	53.82		0.2698
-lenna.png		2040	54.0856		0.2538
-ruler.tiff		2040	56.204		0.1558
-grays.tiff		2040	59.3386		0.0757
+baboon.tiff		2040	64.8083		0.0215
+clock.tiff		2040	58.7723		0.0863
+girl.tiff		2040	58.9192		0.0834
+home.tiff		2040	58.5107		0.0916
+lenna.png		2040	58.7628		0.0865
+ruler.tiff		2040	60.9557		0.0522
+grays.tiff		2040	64.1102		0.0252
 
 Image name		Size	PSNR		MSE
-baboon.tiff		4088	57.1275		0.126
-clock.tiff		4088	51.1161		0.5029
-girl.tiff		4088	51.1869		0.4948
-home.tiff		4088	50.91		0.5273
-lenna.png		4088	51.101		0.5046
-ruler.tiff		4088	53.1922		0.3118
-grays.tiff		4088	56.3609		0.1503
+baboon.tiff		4088	61.8588		0.0424
+clock.tiff		4088	55.8438		0.1693
+girl.tiff		4088	55.9631		0.1647
+home.tiff		4088	55.6769		0.1759
+lenna.png		4088	55.8429		0.1694
 
 Image name		Size	PSNR		MSE
-baboon.tiff		6136	55.3501		0.1897
-clock.tiff		6136	49.3232		0.7599
-girl.tiff		6136	49.3988		0.7468
-home.tiff		6136	49.2443		0.7738
-lenna.png		6136	49.317		0.761
-ruler.tiff		6136	51.4436		0.4664
-grays.tiff		6136	54.5889		0.226
+baboon.tiff		2040	64.8163		0.0215
+clock.tiff		2040	58.8451		0.0848
+girl.tiff		2040	58.9902		0.082
+home.tiff		2040	58.5172		0.0915
+lenna.png		2040	58.7939		0.0858
 
 Image name		Size	PSNR		MSE
-baboon.tiff		8184	54.1134		0.2522
-clock.tiff		8184	48.1201		1.0025
-girl.tiff		8184	48.1449		0.9967
-home.tiff		8184	48.0365		1.0219
-lenna.png		8184	48.0587		1.0167
-ruler.tiff		8184	50.1788		0.624
-grays.tiff		8184	53.4122		0.2964
+baboon.tiff		2040	64.8772		0.0212
+clock.tiff		2040	58.8334		0.0851
+girl.tiff		2040	58.8759		0.0842
+home.tiff		2040	58.4956		0.0919
+lenna.png		2040	58.7926		0.0859
+ruler.tiff		2040	60.9212		0.0526
+grays.tiff		2040	64.0393		0.0257
 
 Image name		Size	PSNR		MSE
-baboon.tiff		10232	53.1332		0.3161
-clock.tiff		10232	47.1371		1.2571
-girl.tiff		10232	47.1779		1.2453
-home.tiff		10232	47.1057		1.2662
-lenna.png		10232	47.0977		1.2686
-ruler.tiff		10232	49.233		0.7759
-grays.tiff		10232	52.4778		0.3675
+baboon.tiff		4088	61.8912		0.0421
+clock.tiff		4088	55.8663		0.1684
+girl.tiff		4088	55.9188		0.1664
+home.tiff		4088	55.7324		0.1737
+lenna.png		4088	55.8959		0.1673
+ruler.tiff		4088	57.9145		0.1051
+grays.tiff		4088	61.0737		0.0508
+
+Image name		Size	PSNR		MSE
+baboon.tiff		6136	60.1094		0.0634
+clock.tiff		6136	54.1444		0.2504
+girl.tiff		6136	54.1666		0.2491
+home.tiff		6136	53.9543		0.2616
+lenna.png		6136	54.0862		0.2538
+ruler.tiff		6136	56.1764		0.1568
+grays.tiff		6136	59.4353		0.0741
+
+Image name		Size	PSNR		MSE
+baboon.tiff		8184	58.9155		0.0835
+clock.tiff		8184	52.9019		0.3333
+girl.tiff		8184	52.9398		0.3304
+home.tiff		8184	52.8245		0.3393
+lenna.png		8184	52.8459		0.3377
+ruler.tiff		8184	54.9327		0.2088
+grays.tiff		8184	58.197		0.0985
+
+Image name		Size	PSNR		MSE
+baboon.tiff		10232	57.9238		0.1049
+clock.tiff		10232	51.9098		0.4189
+girl.tiff		10232	51.9806		0.4121
+home.tiff		10232	51.8788		0.4219
+lenna.png		10232	51.8904		0.4208
+ruler.tiff		10232	54.0204		0.2577
+grays.tiff		10232	57.2144		0.1235
