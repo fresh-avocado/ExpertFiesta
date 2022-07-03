@@ -1,6 +1,6 @@
 # Algoritmo `ExpertFiesta`
 
-ExpertFiesta es un algoritmo que permite esconder tus mensajes en imágenes de forma segura y confiable. El algoritmo se hizo en base al paper [A New Method of Image Steganography Using 7th Bit of a Pixel as Indicator by Introducing the Successive Temporary Pixel in the Gray Scale Image](https://www.hindawi.com/journals/jcnc/2018/9475142/), se implementaron dos mejoras (una inicial y otra final detalladas [aquí](docs/report.pdf)) cuyo producto es ExpertFiesta.
+ExpertFiesta es un algoritmo que permite esconder tus mensajes en imágenes de forma segura y confiable. El algoritmo se hizo en base a [este paper](https://www.hindawi.com/journals/jcnc/2018/9475142/), se implementaron dos mejoras (una inicial y otra final, detalladas [aquí](docs/report.pdf)) cuyo producto es **ExpertFiesta**.
 
 En la rama `mejoraInicial` se encuentra el código de la mejora inicial, mientras que en `main` se encuentra la mejora final.
 
